@@ -1,13 +1,64 @@
-h1, h2, h3 {
-  color: ghostwhite;
-  text-shadow: 1px 1px black;
-}
-.fancy {
-  font-weight: bold;
-  color: green;
-  font-size: 20pt;
+img{
+  display: block;
+  margin: auto;
 }
 
-body{
-  background-color: limegreen;
+h1{
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
+
+.card1{
+  background-color: beige;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 1em;
+  border-radius: 2%;
+  border: solid;
+  border-style: groove;
+  border-color: wheat;
+}
+
+.card2{
+  display: block;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: beige;
+  padding: auto;
+  border: solid;
+  border-style: groove;
+  border-color: wheat;
+  text-align: center;
+}
+
+.card3{
+  background-color: beige;
+  padding-right: 30px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: solid;
+  border-style: groove;
+  border-color: wheat;
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 300px;
+}
+
+.centerText{
+  text-align: center;
+}
+
+iframe{
+display: block;
+margin: auto;
+}
+
+
+body{
+  background-color: lightgray;
+}
+
